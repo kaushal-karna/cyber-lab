@@ -1,0 +1,14 @@
+My Linux Day 1
+
+Username: kaushal
+Home directory: 
+Current directory:
+
+Commands learned:
+pwd
+ls
+cd
+mkdir
+touch
+cat
+find  
